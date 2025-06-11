@@ -27,16 +27,18 @@ Esta calculadora:
 
 ## 📁 Estrutura do Projeto
 
-📦calculadora/
-┣ 📂scripts/
-┃ ┣ 📜app.js
-┃ ┗ 📂modules/
-┃ ┣ 📜view.js
-┃ ┗ 📜calculadora.js
-┣ 📂style/
-┃ ┗ 📜style.css
-┣ 📜index.html
-┗ 📜README.md
+    ```
+    📦 calculadora/
+    ┣ 📂 scripts/
+    ┃ ┣ 📜 app.js
+    ┃ ┗ 📂 modules/
+    ┃   ┣ 📜 view.js
+    ┃   ┗ 📜 calculadora.js
+    ┣ 📂 style/
+    ┃ ┗ 📜 style.css
+    ┣ 📜 index.html
+    ┗ 📜 README.md
+
 
 ## 🚀 Como Rodar
 
@@ -48,7 +50,8 @@ Esta calculadora:
   cd calculadora
 
 3. Abra o index.html no navegador.
-  Nenhuma dependência externa é necessária. Só abrir e usar.
+
+Nenhuma dependência externa é necessária. Só abrir e usar.
 
 ## 🛠️ Próximos Passos (Branchs Futuras)
  
